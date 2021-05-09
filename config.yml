@@ -1,0 +1,7 @@
+MaxHeight: 1000
+MinHeight: -100
+ChunksLimitBuilder: 200
+ChunksLimitGuest: 100
+ReductionAmount: 100
+ReductionInterval: 1
+DistanceInvolved: 160
