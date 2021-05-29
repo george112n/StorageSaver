@@ -1,0 +1,9 @@
+name: CubicCunksRecorder
+version: 2.0.0
+main: storagesaver.Main
+description: To track newly loaded chunks and to alert staff to excessive chunk loading
+
+commands:
+    display:
+        usage: /<command>
+        description: Turns the chunk display on or off for builders

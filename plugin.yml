@@ -1,4 +1,0 @@
-name: Storagesaver
-version: 1.3.2
-main: storagesaver.Main
-description: To prevent unessasary chunk loading
